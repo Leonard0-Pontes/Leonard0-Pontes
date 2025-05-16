@@ -14,7 +14,7 @@
  
 <br>
  
-### Para saber mais sobre mim olhe a nas plataformas abaixo!
+### Para saber mais sobre mim olhe nas plataformas abaixo!
  
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
